@@ -37,9 +37,9 @@
 
 | ![Imasha's github stats](https://github-readme-stats.vercel.app/api?username=ImashaKalpani&show_icons=true&theme=tokyonight) | ![Imasha GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ImashaKalpani&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImashaKalpani&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ImashaKalpani&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImashaKalpani&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ImashaKalpani&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
 
 
 <br>
