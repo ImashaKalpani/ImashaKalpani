@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **BSc (Hons) in Software Engineering | Undergraduate at CINEC Campus**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Programming**
 
 - 📫 How to reach me **kalpaniimasha76@gmail.com**
 
