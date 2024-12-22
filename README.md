@@ -33,7 +33,7 @@
 
  <br>
   
-[![Imasha's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ImashaKalpani&theme=tokyonight)](https://git.io/praveenscience)
+
 
 | ![Imasha's github stats](https://github-readme-stats.vercel.app/api?username=ImashaKalpani&show_icons=true&theme=tokyonight) | ![Imasha GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ImashaKalpani&theme=tokyonight) |
 | --- | --- |
