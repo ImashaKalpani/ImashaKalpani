@@ -72,17 +72,3 @@
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImashaKalpani&layout=compact&theme=tokyonight&hide_border=true" />
 <img height="170em" src="https://github-readme-activity-graph.vercel.app/graph?username=ImashaKalpani&theme=tokyo-night&hide_border=true" />
 </p>
-
----
-
-## ✨ Random Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-⭐ From <a href="https://github.com/ImashaKalpani">ImashaKalpani</a>
-</p>
